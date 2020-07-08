@@ -1,7 +1,8 @@
 # multiple_objects_fMRI_analysis
 
 This code was used to analyze the data for the paper:
-Kliger, L., & Yovel, G. (2019). The functional organization of high-level visual cortex determines the representation of complex visual stimuli. (bioRxiv). https://doi.org/10.1101/2019.12.22.852293
+Kliger, L., & Yovel, G. (2019). The functional organization of high-level visual cortex determines the representation of complex visual stimuli. (bioRxiv). https://doi.org/10.1101/2019.12.22.852293.
+
 Please cite if using this code.
 
 The code is divided to four parts:
